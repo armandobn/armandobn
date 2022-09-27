@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Armando Blancas</h1>  
-<h3 align="center">A passionate FullStack and Web3 developer at Hive de México</h3>  
+<h3 align="center">A passionate  FullStack and Web3  Web Developer at Hive Blockchain from México</h3>  
   
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=armandobn&label=Profile%20views&color=0e75b6&style=flat" alt="armandobn" /> </p>  
 
