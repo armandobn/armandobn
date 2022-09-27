@@ -5,7 +5,6 @@
 
 <h3 align="left">Connect with me:</h3>  
 
-%%CodePen: [CodePen](https://codepen.io/armandobn)%%
 Correo: misticogama1431@gmail.com
 
 ### 💻 Tech Stack:
